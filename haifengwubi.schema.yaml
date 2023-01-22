@@ -9,6 +9,8 @@ schema:
     - 發明人 王永民先生
   description: |
     Syzygy 根据多多版码表制作。
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -18,8 +20,11 @@ switches:
     states: [ 半角, 全角 ]
   - name: extended_charset
     states: [ 常用, 增廣 ]
-  - name: ascii_punct
+  - name: ascii_punctrwu
     states: [ 。，, ．， ]
+  - name: charset_comment_filter  #字符集提示
+    reset: 1  #0为默认关，1为默认开
+    states: [ 区域提示关, 区域提示开]
 
 engine:
   processors:
@@ -40,10 +45,31 @@ engine:
   translators:
     - punct_translator
     - table_translator
-
+  #  - reverse_lookup_translator
+  filters:
+  #  - simplifier
+    - lua_filter@charset_comment_filter #放到最下面可覆盖码表滤镜
+  #  - uniquifier
 speller:
   delimiter: " ;'"
   #max_code_length: 4
+  
+# abc_segmentor:
+#   extra_tags:
+#     - reverse_lookup 
+
+# reverse_lookup:
+#   dictionary: luna_pinyin
+#   prism: luna_pinyin
+#   prefix: "`"
+#   suffix: "'"
+#   tips: 〔拼音〕
+#   preedit_format:
+#     - xform/([nl])v/$1ü/
+#     - xform/([nl])ue/$1üe/
+#     - xform/([jqxy])v/$1u/
+#   #comment_format:
+#   #  - "xlit|abcdefghijklmnopqrstuvwxyz|􌞸􌞹􌞺􌞻􌞼􌞽􌞾􌞿􌟀􌟁􌟂􌟃􌟄􌟅􌟆􌟇􌟈􌟉􌟊􌟋􌟌􌟍􌟎􌟏􌟐􌟒|"
 
 translator:
   dictionary: haifengwubi
@@ -57,6 +83,9 @@ translator:
 
 punctuator:
   import_preset: default
+  half_shape:
+#    "(": [（,(,⁽,₍]
+#    ")": [）,),⁾,₎]
 
 key_binder:
   import_preset: default
