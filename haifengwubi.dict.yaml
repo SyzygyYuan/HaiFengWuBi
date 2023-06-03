@@ -6546,7 +6546,6 @@ encoder:
 匹敌	aqtd
 𦽕	aqtd
 𧀀	aqtd
-𮐃	aqtd
 𦵧	aqte
 𦹤	aqte
 𦺛	aqte
@@ -19429,7 +19428,6 @@ encoder:
 百出	djbm
 辈出	djbm
 非也	djbn
-𭛁	djbn
 𪃱	djbo
 百戏	djca
 𬒎	djcf
@@ -19551,7 +19549,6 @@ encoder:
 悲哉	djfa
 䣑	djfb
 𨞬	djfb
-𫑮	djfb
 𭆈	djfc
 厘	djfd
 𠪨	djff
@@ -38595,7 +38592,7 @@ encoder:
 正版	ghth
 正牌	ghth
 正片	ghth
-𫠦	ghth
+𫠦	ghyh
 焉得	ghtj
 正和	ghtk
 政和	ghtk
@@ -53530,7 +53527,6 @@ encoder:
 光靠	iqtf
 逃生	iqtg
 𣴥	iqtg
-𭭀	iqtg
 光片	iqth
 光复	iqtj
 渔利	iqtj
@@ -74243,6 +74239,7 @@ encoder:
 𩟨	mfke
 𡽩	mfkf
 𧵳	mfkg
+𧵳	mtdg
 𫛲	mfkg
 财路	mfkh
 周跳	mfkh
@@ -84955,7 +84952,7 @@ encoder:
 𤍊	ogxi
 精细	ogxl
 精缩	ogxp
-𭷍	ogxt
+𭷍	lqjn
 𤈙	ogxw
 精编	ogxy
 精纺	ogxy
@@ -88266,7 +88263,6 @@ encoder:
 𪧌	pcsu
 㝊	pcu
 𠖖	pcu
-𭴬	pcuj
 宻	pcum
 𪄋	pcuo
 	pcyu
@@ -101182,6 +101178,7 @@ encoder:
 𤜜	qtln
 𤟧	qtln
 𨮁	qtln
+𨮁	qtmn
 𭃺	qtln
 𪈌	qtlo
 𭱦	qtlo
@@ -133743,7 +133740,6 @@ tay
 总支	ukfc
 冲垮	ukfd
 𭍡	ukff
-𭶢	ukff
 问起	ukfh
 冲走	ukfh
 竞走	ukfh
@@ -152925,7 +152921,6 @@ tay
 综观	xpcm
 綋	xpdc
 𫟄	xpdc
-𭘧	xpdc
 缩套	xpdd
 𦂨	xpdj
 縖	xpdk
@@ -154849,6 +154844,7 @@ tay
 𦆪	xyje
 缠	xyjf
 纏	xyjf
+纒	xdjf
 纒	xyjf
 𢐻	xyjf
 緕	xyjg
@@ -166538,7 +166534,8 @@ AA制	aarm
 𧶚	fffm
 𨘏	fffp
 𠒖	fffq
-𦶫	ffft
+#𦶫	ffft
+𦶫	afas
 𡜦	fffv
 𦿩	ffga
 𦴵	ffgc
@@ -177180,7 +177177,6 @@ AA制	aarm
 𭬾	stif
 𭬿	soyo
 𭭀	synt
-𭭀	syng
 𭭁	stfh
 𭭂	ssao
 𭭃	sfhw
@@ -177661,7 +177657,6 @@ T型台	tgck
 𤚻	trtk
 𤜓	trvv
 𤚃	tryy
-𥫥	ttab
 𢔣	ttfv
 𤯔	ttgf
 𥟰	ttgg
@@ -186084,5 +186079,16 @@ m̀	mmll
 㫄	yyv
 𱬷	ecv
 聚	bcww
+聚󠄃	bcww
 𱜵	gfjn
 𱜵	mhfn
+𱵒	pyye
+𱨴	iqtg
+𱣊	sqtb
+𲁢	ytfh
+𲋔	wpnf
+𱮒	qtas
+𰹹	lavn
+□	rmpb
+𱺸	lxxb
+𱰾	llrf
