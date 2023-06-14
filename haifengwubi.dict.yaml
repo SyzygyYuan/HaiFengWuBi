@@ -3077,6 +3077,8 @@ encoder:
 雅正	ahgh
 牙囊	ahgk
 䕎	ahgl
+䕎	ajgl
+㸿	trfq
 𠡅	ahgl
 雅丽	ahgm
 邪恶	ahgo
@@ -5586,6 +5588,7 @@ encoder:
 蔬	anhq
 𦽞	anhq
 䕈	anhs
+䕈	aths
 荍	anht
 𦬌	anht
 𫈍	anhu
@@ -23039,7 +23042,7 @@ encoder:
 𪿖	dyxy
 砇	dyy
 态度	dyya
-𠀋	dyyi
+𠀋	dyi
 硫剂	dyyj
 太高	dyym
 矿房	dyyn
@@ -23514,6 +23517,7 @@ encoder:
 胎记	ecyn
 胎座	ecyw
 肞	ecyy
+肞	eyqy
 须	ed
 胧	ed
 腼	ed
@@ -34402,6 +34406,7 @@ encoder:
 𨗒	ftfp
 老远	ftfq
 栞	ftfs
+栞	ffsu
 老者	ftft
 考考	ftft
 耄耋	ftft
@@ -38282,6 +38287,7 @@ encoder:
 下士	ghfg
 下干	ghfg
 𫠉	ghfg
+𫠉	dhng
 正直	ghfh
 下坡	ghfh
 下超	ghfh
@@ -41719,7 +41725,6 @@ encoder:
 残障	gqbu
 列队	gqbw
 殆	gqc
-𭪀	gqcc
 䬸	gqce
 𭪘	gqcg
 𡯅	gqci
@@ -42499,6 +42504,7 @@ encoder:
 𩑷	gsdm
 𣚺	gsdu
 膥	gsdw
+膥	fidw
 末脑	gsey
 𤧕	gsfg
 𤨧	gsfi
@@ -43296,12 +43302,11 @@ encoder:
 𪻲	gxfm
 素元	gxfq
 毒者	gxft
-纛	gxg
+纛	gxgi
 互	gxg
 𨚎	gxgb
 互	gxgd
 素环	gxgg
-纛	gxgi
 互不	gxgi
 互惠	gxgj
 𧔄	gxgj
@@ -51131,6 +51136,7 @@ encoder:
 𤃅	ijfc
 溡	ijff
 濹	ijff
+濹	ilff
 涅	ijfg
 浬	ijfg
 涆	ijfh
@@ -65086,7 +65092,7 @@ encoder:
 𠿜	kjsn
 𠵩	kjsy
 唱盘	kjte
-𭈉	kjtg
+𭈻	kjtg
 唱片	kjth
 唱得	kjtj
 喝得	kjtj
@@ -67492,7 +67498,6 @@ encoder:
 𭈾	kuqt
 嚪	kuqv
 𫫦	kuqv
-𭈻	kuqw
 咬	kuqy
 咬掉	kurh
 咬缸	kurm
@@ -74321,6 +74326,7 @@ encoder:
 崁	mfqw
 𡷑	mfqw
 𪚮	mfqx
+𪚮	mfqg
 财贸	mfqy
 周报	mfrb
 周质	mfrf
@@ -84784,7 +84790,6 @@ encoder:
 𤈆	ogkq
 𣀱	ogkt
 𥺉	ogku
-𭰁	ogku
 𤐀	oglg
 𬋆	oglh
 煉	ogli
@@ -91301,6 +91306,7 @@ encoder:
 䘯	puie
 初潮	puif
 褝	puif
+褝	puuf
 初清	puig
 初小	puih
 𮖦	puih
@@ -98865,6 +98871,7 @@ encoder:
 𩷒	qomn
 𩼣	qomp
 鰴	qomt
+鰴	tmgt
 鱧	qomu
 䱺	qomu
 𩽢	qomv
@@ -100058,6 +100065,7 @@ encoder:
 多练	qqxa
 多级	qqxe
 𪚪	qqxg
+𪚪	qqmg
 𥾥	qqxi
 多强	qqxk
 𤕥	qqxq
@@ -113129,6 +113137,7 @@ encoder:
 𣜪	sfqw
 㮄	sfqy
 㮄	syqy
+㮄	syyn
 𣏕	sfqy
 棱拱	sfra
 飘摇	sfre
@@ -115616,6 +115625,7 @@ encoder:
 楼层	sonf
 𪲛	sonn
 橩	soof
+橩	soom
 檆	sook
 櫿	sook
 橯	sool
@@ -122797,6 +122807,7 @@ tay
 𭍟	thff
 处士	thfg
 𤰃	thfh
+𤰃	etgh
 𠂦	thfh
 𤰆	thfh
 𬠿	thfh
@@ -156054,7 +156065,6 @@ tay
 誠	ydnt
 䛋	ydnt
 诚心	ydny
-𭗒	ydny
 诙	ydo
 齑粉	ydow
 诙	ydoy
@@ -163809,7 +163819,6 @@ AA制	aarm
 𭆑	ahtn
 𭆧	acy
 𭆳	ahnc
-𭈻	ajtg
 𭊢	afhx
 𭊬	affa
 𭋆	aqkk
@@ -166848,7 +166857,7 @@ AA制	aarm
 𧻮	fhtq
 𧼰	fhtv
 𧾒	fhum
-𧺌	fhwi
+𧺌	fhty
 𧾙	fhyf
 𡬝	fhyi
 𣚺	fidu
@@ -169607,7 +169616,7 @@ AA制	aarm
 𭯾	irsh
 𭯿	ifjh
 𭰀	ialt
-𭰁	imnb
+𭰁	imnn
 𭰂	irfh
 𭰂	irgd
 𭰃	iwbn
@@ -172576,7 +172585,7 @@ AA制	aarm
 𭗏	mpnm
 𭗐	mnbt
 𭗑	mnfy
-𭗒	mrgt
+𭗒	mtgt
 𭗓	mrgt
 𭗔	mswy
 𭗕	mdnc
@@ -174917,7 +174926,7 @@ AA制	aarm
 𰷥	pfim
 𰻝	pwyp
 𰻝	pwep
-𰻞	pwep�
+𰻞	pwep
 𰻞	pwyp
 𰻬	pfqb
 𰻺	pntb
@@ -185663,7 +185672,8 @@ m̀	mmll
 阝	bnh
 ∃	dhdh
 ∀	cgrd
-纛	gxf
+纛	gxfi
+纛	gxdi
 喂	klg
 盥	qgi
 钓	qqy
@@ -186092,3 +186102,5 @@ m̀	mmll
 □	rmpb
 𱺸	lxxb
 𱰾	llrf
+𱍫	mgd
+𲁤	iyqy
