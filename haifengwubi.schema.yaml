@@ -22,9 +22,9 @@ switches:
     states: [ 常用, 增廣 ]
   - name: ascii_punctrwu
     states: [ 。，, ．， ]
-  - name: charset_comment_filter  #字符集提示
-    reset: 1  #0为默认关，1为默认开
-    states: [ 区域提示关, 区域提示开]
+ # - name: charset_comment_filter  #字符集提示
+ #   reset: 1  #0为默认关，1为默认开
+ #   states: [ 区域提示关, 区域提示开]
 
 engine:
   processors:
@@ -48,7 +48,7 @@ engine:
   #  - reverse_lookup_translator
   filters:
   #  - simplifier
-    - lua_filter@charset_comment_filter #放到最下面可覆盖码表滤镜
+  #  - lua_filter@charset_comment_filter #放到最下面可覆盖码表滤镜
   #  - uniquifier
 speller:
   delimiter: " ;'"

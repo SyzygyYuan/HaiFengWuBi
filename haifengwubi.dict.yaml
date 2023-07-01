@@ -5526,6 +5526,7 @@ encoder:
 巨雷	anfl
 巨献	anfm
 𩔡	anfm
+𩔡	nngm
 藯	anfn
 𢙷	anfn
 𧡸	anfq
@@ -7272,6 +7273,7 @@ encoder:
 𦼀	aton
 萩	atou
 𨑘	atpe
+𨑘	dnpv
 攻守	atpf
 䒦	atpu
 蓬安	atpv
@@ -7932,6 +7934,7 @@ encoder:
 切沟	aviq
 𦯷	avit
 菉	aviu
+菉	axgi
 𦮵	aviu
 切当	aviv
 𮏄	avjf
@@ -15441,7 +15444,8 @@ encoder:
 驸	cwf
 难堪	cwfa
 难却	cwfc
-𡉡	cwfd
+#𡉡	cwfd
+𡉡	cwff
 𩤼	cwfg
 难求	cwfi
 𠭫	cwfi
@@ -17317,7 +17321,6 @@ encoder:
 𩭕	depq
 鬡	deps
 𬴪	deps
-𮩵	deps
 憂	dept
 𥖦	dept
 有案	depv
@@ -17572,7 +17575,6 @@ encoder:
 郁结	dexf
 𩬍	dexf
 有线	dexg
-𮩸	dexi
 髴	dexj
 𩬺	dexj
 𩬗	dexl
@@ -19030,6 +19032,7 @@ encoder:
 𮗆	dhqn
 𠀼	dhqu
 兏	dhqv
+兏	rhqv
 𡘱	dhqw
 存留	dhqy
 夏卵	dhqy
@@ -23043,6 +23046,7 @@ encoder:
 砇	dyy
 态度	dyya
 𠀋	dyi
+𠀋	dyyi
 硫剂	dyyj
 太高	dyym
 矿房	dyyn
@@ -27282,6 +27286,7 @@ encoder:
 𫕳	fafg
 墸	fafj
 㔺	fafj
+㔺	ffnb
 䨣	fafj
 𠦡	fafj
 𡒹	fafj
@@ -28568,7 +28573,6 @@ encoder:
 𭌱	ffdf
 土石	ffdg
 ㉓	ffdg
-𭌰	ffdg
 封存	ffdh
 ㍯	ffdh
 壖	ffdj
@@ -32553,7 +32557,6 @@ encoder:
 𫠅	fnhf
 𬰱	fnhf
 𬰴	fnhf
-𮦵	fnhf
 堳	fnhg
 声卡	fnhh
 㙔	fnhh
@@ -36590,6 +36593,7 @@ encoder:
 到点	gchk
 至此	gchx
 𠫓	gci
+𠫓	ycu
 𠫔	gci
 	gci
 到港	gcia
@@ -40743,7 +40747,6 @@ encoder:
 𧟺	gmjc
 𧠅	gmjc
 𧟲	gmjd
-𭌰	gmjd
 𭵎	gmjd
 𧟩	gmje
 𧟳	gmje
@@ -44887,6 +44890,7 @@ encoder:
 𥆆	hgcq
 丄	hgd
 𠃎	hgd
+𠃎	nnll
 𭩤	hgdc
 𭽡	hgdh
 凸面	hgdm
@@ -56277,6 +56281,7 @@ encoder:
 𣽘	iyqs
 游逛	iyqt
 𣶢	iyqy
+𣶢	iyyn
 𣷳	iyqy
 流质	iyrf
 流年	iyrh
@@ -59131,7 +59136,6 @@ encoder:
 𮃺	jmho
 遇	jmhp
 𬩔	jmhp
-𭌰	jmhp
 禺	jmhy
 𤔝	jmhy
 𥝉	jmhy
@@ -70178,6 +70182,8 @@ encoder:
 ⣔	lhjk
 ⠔	lhjl
 㐃	lhk
+㐃	chk
+㐃	khk
 四号	lhkg
 ⢴	lhkh
 ⡴	lhkj
@@ -72882,6 +72888,7 @@ encoder:
 	lyhh
 	lyhu
 𠮚	lyi
+𠮚	kyi
 𪢨	lyi
 罚没	lyim
 罚酒	lyis
@@ -74401,7 +74408,6 @@ encoder:
 财货	mfwx
 𡾜	mfwy
 𤱁	mfwy
-𮙢	mfwy
 财经	mfxc
 周线	mfxg
 𪓘	mfxg
@@ -79183,7 +79189,6 @@ encoder:
 剧场	ndfn
 恗	ndfn
 剧增	ndfu
-𭔃	ndfx
 怙	ndg
 𫹺	ndg
 𭛰	ndga
@@ -83593,7 +83598,7 @@ encoder:
 忄	nyhy
 尺	nyi
 乄	nyi
-㣺	nyi
+#㣺	nyi
 𠙴	nyi
 	nyi
 	nyi
@@ -92084,7 +92089,6 @@ encoder:
 𧚕	puyu
 初诊	puyw
 褐腐	puyw
-𮕹	puyw
 袨	puyx
 袖廊	puyy
 䘸	puyy
@@ -95621,7 +95625,6 @@ encoder:
 镇痛	qfuc
 针头	qfud
 﨨	qfuf
-𭶅	qfui
 𨪲	qful
 鐽	qfup
 𨭭	qfwc
@@ -99820,6 +99823,7 @@ encoder:
 多情	qqng
 翗	qqng
 𨪐	qqng
+𨪐	qqhg
 多收	qqnh
 𤕟	qqnh
 多尿	qqni
@@ -107793,7 +107797,6 @@ encoder:
 𤾫	rnwy
 氟	rnx
 扭结	rnxf
-𭍻	rnxf
 所引	rnxh
 紥	rnxi
 氟	rnxj
@@ -111288,6 +111291,7 @@ encoder:
 指证	rxyg
 批语	rxyg
 𢺈	rxyi
+𢺈	rxyx
 𢺳	rxyj
 指为	rxyl
 指望	rxyn
@@ -119745,7 +119749,6 @@ tay
 敌	tdty
 短篇	tdty
 𥎪	tdty
-㣣	tdty
 矢	tdu
 𥝚	tdu
 𥬇	tdu
@@ -119843,6 +119846,7 @@ tay
 乱伦	tdww
 筴	tdww
 㣣	tdww
+㣣	tdty
 𥞵	tdww
 𬜐	tdww
 矮化	tdwx
@@ -138813,6 +138817,7 @@ tay
 𧗁	vfhl
 𧗙	vfhl
 㶳	vfho
+㶳	vfou
 𪁀	vfho
 建	vfhp
 䢖	vfhp
@@ -139134,6 +139139,7 @@ tay
 𭐥	vghf
 姃	vghg
 𫰟	vghg
+𫰟	vgqg
 𡛔	vghn
 󰀉	vghn
 嫣	vgho
@@ -139314,6 +139320,7 @@ tay
 𦦔	vhjy
 肀	vhk
 𠁣	vhk
+𠁣	hvd
 𦥔	vhk
 	vhk
 	vhk
@@ -145444,7 +145451,6 @@ tay
 𠈧	wmmc
 𠈿	wmmc
 𤼺	wmmc
-𬽡	wmmh
 侧风	wmmq
 𪝼	wmmv
 仙丹	wmmy
@@ -152275,6 +152281,7 @@ tay
 强暴	xkja
 犟	xkjh
 勥	xkjl
+勥	xcjl
 绳	xkjn
 䋲	xkjn
 𭘩	xkjn
@@ -158648,6 +158655,7 @@ tay
 高强	ymxk
 设疑	ymxt
 𡦹	ymxv
+𡦹	ymnv
 𢈃	ymxv
 调绘	ymxw
 高比	ymxx
@@ -163692,7 +163700,7 @@ AA制	aarm
 𦼋	asvi
 𦴏	atfa
 𧀑	atgf
-𠥫	athn
+#𠥫	athn
 𦻓	atkg
 𥁘	atlf
 𦸇	atsh
@@ -164548,6 +164556,7 @@ AA制	aarm
 𰲖	akkk
 𰲗	agkg
 𰴛	anfq
+𰴛	nngq
 𰴯	apyf
 𰷞	aymu
 𰺅	awlj
@@ -164635,6 +164644,7 @@ AA制	aarm
 𨼑	bnfj
 𠄔	bnhg
 𨻉	bnxg
+𨻉	bnng
 𨼈	bpwk
 𦖓	bpwn
 𦕑	bqay
@@ -165737,6 +165747,7 @@ AA制	aarm
 𮎞	ddjc
 𮕜	dlf
 𮕹	dnye
+𮕹	ghfe
 𮗎	dhqn
 𮘻	dwwy
 𮙏	dhwy
@@ -165789,10 +165800,13 @@ AA制	aarm
 𮩲	dnox
 𮩳	dnoy
 𮩴	dnak
+𮩴	ghfa
 𮩵	dnmh
+𮩵	ghfh
 𮩶	dnow
 𮩷	dnoq
 𮩸	dnkh
+𮩸	ghfh
 𮪽	detd
 𮪾	denu
 𮪿	deuf
@@ -167938,7 +167952,7 @@ AA制	aarm
 𤧑	gmtj
 𠚻	gngj
 𤴕	gnhu
-𠃛	gnnv
+#𠃛	gnnv
 𠀅	gntv
 𨘶	gogp
 𩀝	gphc
@@ -168804,6 +168818,7 @@ AA制	aarm
 𡉟	hndf
 𥉧	hnuu
 𥉝	hnxg
+𥉝	hnng
 𨤐	hpto
 𥉺	hpwf
 𠧶	hpwi
@@ -169416,7 +169431,7 @@ AA制	aarm
 𱊸	hlqn
 𱊹	hlqj
 𱌡	hbuk
-𣥂	ite
+#𣥂	ite
 𣾛	iabg
 𤄓	iabw
 𤂡	iafc
@@ -170265,7 +170280,8 @@ AA制	aarm
 𭃶	jgqj
 𭄰	jslt
 𭅸	jbj
-𭍻	jnfd
+𭍻	jnff
+𭍻	jjff
 𭎮	jeff
 𭏏	jrgf
 𭓇	jhrb
@@ -171297,7 +171313,8 @@ AA制	aarm
 𭌯	kxgf
 𭌯	kxif
 𭌯	kxyf
-𭌰	kgvo
+𭌰	kgvb
+𭌰	kdhb
 𭌱	katy
 𭌲	kexy
 𭌴	khhc
@@ -171734,7 +171751,8 @@ AA制	aarm
 𨌡	lgjn
 𩙽	lgku
 𨍬	lgoj
-𡆡	lgyi
+#𡆡	lgyi
+𡆡	lyi
 𡇛	lhgc
 囬	ljfd
 𨎵	lkba
@@ -173046,6 +173064,7 @@ AA制	aarm
 韤	nhky
 𪓓	nhmg
 㣺	nhty
+㣺	nhyy
 𡲬	nibm
 𡲘	niii
 𡲶	ninm
@@ -173070,9 +173089,12 @@ AA制	aarm
 𠁁	nngg
 㓸	nngj
 斲	nngr
+斲	qfnr
+斲	qhgr
 𪓩	nnkg
 𦐯	nnlg
 𧡸	nnnq
+𧡸	nngq
 𦒨	npay
 𢗑	npmn
 𢤪	npup
@@ -173104,7 +173126,9 @@ AA制	aarm
 𡕡	nwtu
 𡲱	nwwf
 𨜹	nxnb
+𨜹	nngb
 𧞐	nxne
+𧞐	nnge
 𩔡	nxnm
 𡳍	nxqk
 𡳭	nxss
@@ -173142,7 +173166,8 @@ AA制	aarm
 𬼢	nnav
 𬼫	nunu
 𬼬	nkkk
-𬽡	nyny
+#𬽡	nyny
+𬽡	ccy
 𬿠	nywg
 𭀛	ncqv
 𭀜	ntun
@@ -173365,6 +173390,7 @@ AA制	aarm
 𭤙	nayy
 𭥜	nyjf
 𭥟	ncjn
+𭥟	bcjn
 𭦖	ntjf
 𭩿	nnsu
 𭮭	nfkc
@@ -173806,8 +173832,9 @@ AA制	aarm
 𭶂	oagh
 𭶂	oagg
 𭶄	oada
-𭶅	oogd
-𭶅	ooaw
+#𭶅	oogd
+#𭶅	ooaw
+𭶅	oogy
 𭶆	oqje
 𭶇	orns
 𭶋	oopt
@@ -174480,7 +174507,8 @@ AA制	aarm
 𭔀	prym
 𭔁	pwjd
 𭔂	pute
-𭔃	pusk
+#𭔃	pusk
+𭔃	pukj
 𭔄	pnlh
 𭔄	pnms
 𭔅	pvdj
@@ -175057,7 +175085,9 @@ AA制	aarm
 𪓠	qnmg
 𠑾	qnqv
 𨪐	qnxg
+𨪐	qnng
 𨮕	qnxr
+𨮕	qnnr
 𢍸	qoaa
 𩸕	qoae
 𩵯	qoah
@@ -178896,6 +178926,7 @@ T恤	ttnt
 𣍄	unhw
 𨐪	unuu
 𨷖	unxr
+𨷖	unnr
 𠁔	uomn
 𤴺	upmv
 𤷿	upwd
@@ -179249,6 +179280,7 @@ U盘	uute
 𮙞	ujeu
 𮙢	udny
 𮙢	ucgy
+𮙢	ughy
 𮚘	umkm
 𮚘	umkw
 𮝼	ukuh
@@ -179660,6 +179692,7 @@ U盘	uute
 𪕺	vnuy
 𪖏	vnuy
 𡟳	vnxg
+𡟳	vnng
 𥽱	voug
 𢑱	vowd
 𡣚	vpaq
@@ -182072,7 +182105,9 @@ U盘	uute
 𢩅	ynwk
 𩿇	ynwo
 𧞗	ynxe
+𧞗	ynne
 𧪧	ynxg
+𧪧	ynng
 𢨩	ynxv
 𢨸	ynyg
 𢨯	ynyn
@@ -186104,3 +186139,5 @@ m̀	mmll
 𱰾	llrf
 𱍫	mgd
 𲁤	iyqy
+𲎖	ynao
+𲂍	yyg
