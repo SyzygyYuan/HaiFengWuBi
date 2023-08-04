@@ -27246,7 +27246,6 @@ encoder:
 韯	fadg
 𫮹	fadi
 𢧨	fadj
-𮥠	fadk
 墈	fadl
 𡑷	fadl
 截面	fadm
@@ -28543,7 +28542,6 @@ encoder:
 𩆦	ffcj
 𠄳	ffcl
 𡏖	ffcl
-𭄘	ffcl
 靅	ffcm
 霒	ffcn
 霕	ffcn
@@ -41700,7 +41698,7 @@ encoder:
 𭺨	gqay
 殛	gqb
 𫠤	gqb
-⺎	gqb
+⺎	gqv
 列子	gqbb
 𣧓	gqbb
 𪵁	gqbc
@@ -43237,6 +43235,7 @@ encoder:
 𠭕	gwwc
 𬍦	gwwc
 𠁊	gwwd
+𠁗	gdjd
 𭖌	gwwf
 㻜	gwwh
 𤩣	gwwh
@@ -85955,7 +85954,7 @@ encoder:
 𥼩	okhm
 𩕈	okhm
 𪹢	okht
-𮈔	okhy
+𮈔	xtxi
 𤈵	okjg
 𬖧	okjh
 燥	okk
@@ -122019,6 +122018,7 @@ tay
 𨙡	tgap
 𣂩	tgar
 乗	tgas
+乗	tgai
 𥡭	tgav
 𣢴	tgaw
 𡙇	tgaw
@@ -140990,6 +140990,7 @@ tay
 𡢒	vtgu
 娇妻	vtgv
 臼	vth
+臼	vthg
 妰	vthf
 𡠖	vthf
 𦥬	vthf
@@ -155073,6 +155074,7 @@ tay
 絃	xyxy
 	xyxy
 䜌	xyxy
+䜌	xyxi
 𠨫	xyxy
 𤫜	xyxy
 𦇥	xyxy
@@ -164451,7 +164453,8 @@ AA制	aarm
 𰰨	awxb
 𰰩	aufj
 𰰪	anhf
-𰰫	agcu
+#𰰫	agcu
+𰰫	afhc
 𰰬	agou
 𰰭	akcu
 𰰮	ajvf
@@ -168087,6 +168090,8 @@ AA制	aarm
 𭄏	ghnj
 𭄘	gjqj
 𭄘	gfqj
+𭄘	gjaj
+𭄘	gajj
 𭄡	gfkl
 𭄦	gqlt
 𭄧	gkpn
@@ -168480,7 +168485,8 @@ AA制	aarm
 𰀃	gmb
 𰀆	guf
 𰀇	gngn
-𰀈	gcu
+#𰀈	gcu
+𰀈	fhcu
 𰀉	gkhk
 𰀌	gkmh
 𰀐	gtfc
@@ -168492,7 +168498,8 @@ AA制	aarm
 𰀙	gdya
 𰀛	gjjf
 𰀟	gigh
-𰁓	gcqh
+#𰁓	gcqh
+𰁓	fhch
 𰁔	ghqh
 𰁘	gfqg
 𰁚	gfga
@@ -168517,7 +168524,8 @@ AA制	aarm
 𰋭	gdjg
 𰋮	gdfn
 𰋯	gdyy
-𰍎	gcph
+#𰍎	gcph
+𰍎	fhch
 𰍭	gqtg
 𰏅	gvab
 𰏚	gkpt
@@ -169309,7 +169317,8 @@ AA制	aarm
 𰥒	hwwy
 𰥓	hqrr
 𰥔	htdy
-𰥕	hgcy
+#𰥕	hgcy
+𰥕	hfhc
 𰥗	hrsh
 𰥛	hykh
 𰥝	hdoy
@@ -169973,7 +169982,8 @@ AA制	aarm
 𰛐	iqwy
 𰛑	ipgg
 𰛒	iaiy
-𰛓	igcy
+#𰛓	igcy
+𰛓	ifhc
 𰛔	iduy
 𰛗	iuxn
 𰛘	ikry
@@ -170651,7 +170661,8 @@ AA制	aarm
 𰕷	jwjh
 𰕸	jghg
 𰕹	jfet
-𰕺	jgcy
+#𰕺	jgcy
+𰕺	jfhc
 𰕻	jlh
 𰕼	jjhh
 𰕿	jsf
@@ -173533,7 +173544,8 @@ AA制	aarm
 𰑄	nwxn
 𰑅	nwwy
 𰑇	ntgf
-𰑊	nfcy
+#𰑊	nfcy
+𰑊	nfhc
 𰑌	nmdy
 𰑍	nket
 𰑏	npxn
@@ -174047,7 +174059,8 @@ AA制	aarm
 𰪭	otay
 𰪮	otah
 𰪯	otfg
-𰪱	ogcy
+#𰪱	ogcy
+𰪱	ofhc
 𰪲	oskg
 𰪳	ogoy
 𰪴	olh
@@ -174508,7 +174521,7 @@ AA制	aarm
 𭔁	pwjd
 𭔂	pute
 #𭔃	pusk
-𭔃	pukj
+𭔃	pukh
 𭔄	pnlh
 𭔄	pnms
 𭔅	pvdj
@@ -175714,7 +175727,8 @@ AA制	aarm
 𰠿	qtwv
 𰡀	qudy
 𰡁	qtuy
-𰡂	qtgc
+#𰡂	qtgc
+𰡂	qtfc
 𰡃	qtfi
 𰡄	qthn
 𰡅	qtdc
@@ -175981,7 +175995,7 @@ AA制	aarm
 𱆬	qoxf
 𱆭	qoaa
 𱆮	qoaf
-𱆯	qotb
+𱆯	qote
 𱆰	qoqn
 𱆱	qoof
 𱆲	qovo
@@ -176192,7 +176206,7 @@ AA制	aarm
 𢱇	rpwq
 𢲷	rpwq
 𢳙	rpwq
-𢯱	rpwt
+𢯱	rpoc
 𢲘	rpwu
 𢹑	rpwu
 𢭕	rpwv
@@ -179483,7 +179497,8 @@ U盘	uute
 𰥅	uwlq
 𰥊	ujtl
 𰩡	uwff
-𰩢	ugcy
+#𰩢	ugcy
+𰩢	ufhc
 𰩣	uwsy
 𰩤	uuqy
 𰩥	udmd
@@ -182795,7 +182810,8 @@ U盘	uute
 𰵒	ypqn
 𰵓	ysyy
 𰵔	yann
-𰵕	ygcy
+#𰵕	ygcy
+𰵕	yfhy
 𰵖	yann
 𰵗	ymdy
 𰵘	ymfg
@@ -186141,3 +186157,12 @@ m̀	mmll
 𲁤	iyqy
 𲎖	ynao
 𲂍	yyg
+〪	gufn
+〫	hhfn
+〬	fcfn
+〭	tyfn
+̃	thwx
+𱼚	fidw
+𱲣	uhf
+𱲣	ythf
+𱽍	afu
