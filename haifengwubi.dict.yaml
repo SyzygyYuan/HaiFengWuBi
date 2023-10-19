@@ -9737,6 +9737,7 @@ encoder:
 𭑆	bcvv
 取代	bcwa
 𣀒	bcwc
+𣀒	bctc
 聚会	bcwf
 取舍	bcwf
 取值	bcwf
@@ -34123,6 +34124,7 @@ encoder:
 ䷘	fqyn
 无迹	fqyo
 𤇍	fqyo
+𤇍	syou
 𬩋	fqyp
 无底	fqyq
 无义	fqyq
@@ -43235,6 +43237,7 @@ encoder:
 𠭕	gwwc
 𬍦	gwwc
 𠁊	gwwd
+宐󠄃	pgxg
 𠁗	gdjd
 𭖌	gwwf
 㻜	gwwh
@@ -43971,6 +43974,7 @@ encoder:
 虚数	haov
 歔	haow
 虡	haow
+虡	hanw
 歔	haow
 矇	hape
 虚实	hapu
@@ -79877,6 +79881,7 @@ encoder:
 ䷟	ngjg
 懒虫	ngjh
 𢡍	ngjh
+𢡍	ngkh
 	ngjh
 𢛔	ngji
 𢥱	ngjj
@@ -125915,7 +125920,7 @@ tay
 𢖈	tnwy
 𥝭	tnwy
 𥣞	tnwy
-𮆴	tnwy
+𮆴	tuto
 𥬩	tnxb
 秜	tnxn
 𢓚	tnxn
@@ -141529,7 +141534,7 @@ tay
 女仆	vvwh
 𦦦	vvwn
 𦦭	vvwn
-𮋡	vvwn
+𮋡	ydmj
 𪀫	vvwo
 女伴	vvwu
 𮋢	vvwu
@@ -150064,6 +150069,7 @@ tay
 仪	wyqy
 停留	wyqy
 𠊓	wyqy
+𠊓	wyyn
 令拱	wyra
 信报	wyrb
 偏振	wyrd
@@ -156449,6 +156455,8 @@ tay
 諵	yfmf
 诗赋	yfmg
 𪗌	yfmj
+齏	yjhg
+𪗌	yjmw
 诗风	yfmq
 𦞍	yfmw
 读	yfn
@@ -156497,6 +156505,7 @@ tay
 𪎞	yfqd
 讲解	yfqe
 𩞁	yfqe
+𩞁	ysse
 𢊶	yfqe
 𢋚	yfqe
 𧜍	yfqe
@@ -163658,8 +163667,8 @@ AA制	aarm
 𪏛	amwx
 𪎺	amwy
 𪏌	amwy
-𣀺	amxc
-𣀸	amxt
+#𣀺	amxc
+#𣀸	amxt
 𠦘	amyf
 𡊼	amyf
 𩢽	anfc
@@ -165940,7 +165949,9 @@ AA制	aarm
 𰥖	dwhf
 𰦤	dbyy
 𰦥	drcy
-𰦦	ddet
+𰦦	ddln
+𱳱	dtay
+𮱵	xtdj
 𰦧	dgxg
 𰦨	dyly
 𰦩	dynt
@@ -165950,7 +165961,7 @@ AA制	aarm
 𰦭	ddxy
 𰦮	dvet
 𰦯	dhhy
-𰦰	dcgh
+𰦰	dcfh
 𰦲	dcfy
 𰦳	dbg
 𰦴	dgog
@@ -167682,6 +167693,8 @@ AA制	aarm
 𰟞	fffo
 𰟴	ftyi
 𰢢	fqgy
+䱁	qosg
+𰢢	fqgn
 𰣋	fwwl
 𰤚	fwfr
 𰤬	fnuc
@@ -172842,7 +172855,7 @@ AA制	aarm
 𰎋	mef
 𰎌	mwwy
 𰎍	mcqn
-𰎎	mdxy
+𰎎	mdxb
 𰎏	maiy
 𰎐	mhnt
 𰎑	mogf
@@ -173959,7 +173972,7 @@ AA制	aarm
 𰏽	oguf
 𰏾	orvc
 𰏿	olpi
-𰐁	oyve
+𰐁	yyve
 𰐂	oacq
 𰐃	ofwl
 𰐄	oacp
@@ -174106,7 +174119,7 @@ AA制	aarm
 𱂧	odmy
 𱈲	ovwo
 𱊝	ovhg
-𱊤	oveg
+𱊤	yveg
 𱋯	ossk
 𱋰	ossw
 𱋱	ossm
@@ -176086,7 +176099,7 @@ AA制	aarm
 𱈌	qguf
 𱈍	qgxu
 𱈎	qgcs
-𱈏	qggp
+𱈏	qgep
 𱈐	qggf
 𱈒	qgar
 𱈓	qgsj
@@ -176835,7 +176848,7 @@ AA制	aarm
 𰤒	rnb
 𰤓	rnrt
 𰤔	rvb
-𰤕	rtni
+𰤕	rqiy
 𰤖	rjh
 𰤗	rynw
 𰤙	rrrf
@@ -176878,7 +176891,7 @@ AA制	aarm
 𱆟	rqch
 𱆠	rqcf
 𱇹	rmhg
-𱇿	rqgvj
+𱇿	qgvj
 𱈞	rwvo
 𱉚	rwqg
 𱉫	riqg
@@ -178590,14 +178603,14 @@ T恤	ttnt
 𰠯	tdag
 𰠰	tgoy
 𰠱	tmdy
-𰠲	tcag
+𰠲	trca
 𰠳	tgg
 𰠴	tatq
 𰠵	tyve
 𰠶	tqqf
 𰠷	tviy
 𰠸	tusk
-𰠹	tlfc
+𰠹	trlc
 𰠻	tolg
 𰠼	tkhm
 𰡸	tlgf
@@ -178632,7 +178645,7 @@ T恤	ttnt
 𰦢	tdqj
 𰦣	tdtw
 𰨛	tvt
-𰨜	tot
+𰨜	tyt
 𰨝	tdf
 𰨞	tvfh
 𰨟	tgmf
@@ -180077,6 +180090,7 @@ U盘	uute
 𠑚	wdhe
 𠑍	wdht
 𠈙	wfat
+𠈙	wgt
 𦦬	wfdi
 𦦶	wfdi
 𠍤	wffb
@@ -181579,7 +181593,7 @@ U盘	uute
 𫄔	xudo
 𫄨	xrdh
 𫄫	xydy
-𫄸	xtjo
+#𫄸	xtjo
 𫸩	xary
 𫟁	xnhc
 𫟂	xpfu
@@ -181919,7 +181933,7 @@ U盘	uute
 𰬬	xalg
 𰬭	xfff
 𰬮	xdpg
-𰬯	xrbt
+𰬯	xqbt
 𰬰	xqrn
 𰬱	xfpi
 𰬲	xdri
@@ -182899,7 +182913,7 @@ U盘	uute
 𱈱	yfwo
 𱉓	ynqg
 𱊋	yneg
-𱊕	yupg
+𱊕	upmg
 𱊥	yumg
 𱊮	ynky
 𱊾	ynjc
@@ -183011,6 +183025,8 @@ U盘	uute
 ㈞	tfrg
 〡	ggll
 〢	fgg
+〢	jhh
+〣	khhh
 〣	dggg
 〤	lhng
 〥	gghg
@@ -186166,3 +186182,29 @@ m̀	mmll
 𱲣	uhf
 𱲣	ythf
 𱽍	afu
+𲄝	ivtt
+勲󠄂	tglo
+𲁰	yqku
+鬼󠄂	lqci
+篆󠄃	tveu
+𱼀	qtny
+𲇕	qjtl
+𱯇	gccc
+𱤽	dhd
+𩧻	cpqb
+𮴡	gggf
+􏿽	pwst
+𱜅	mgmj
+𱍻	pfd
+𱍐	fkj
+𱍐	fhqv
+﹆	utkg
+﹅	utkg
+𱤻	gjgd
+𱝌	yiaw
+𱝏	yioh
+𲂺	vmu
+𲍵	hxqg
+𮶂	xtdh
+𣣷	bhgw
+𱎟	wnrt
