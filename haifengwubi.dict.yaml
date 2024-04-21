@@ -65,7 +65,7 @@ encoder:
 发	v	nt
 #女	v	06
 人	w	ww
-经 x xc
+经	x	xc
 
 ⨌	tkwv
 ㄬ	gnll
@@ -10362,7 +10362,6 @@ encoder:
 耳轮	bglw
 陋	bgm
 隔岸	bgmd
-𭍺	bgmf
 䏆	bgmj
 隔山	bgmm
 耳凹	bgmm
@@ -58939,7 +58938,8 @@ encoder:
 𣋖	jldd
 𬠯	jldd
 𧏈	jldh
-㬅	jldn
+#㬅	jldn
+㬅	jlyb
 𭣊	jldn
 𧑩	jldu
 𧊭	jldy
@@ -78477,6 +78477,7 @@ encoder:
 𠣝	myqf
 𫛝	myqg
 𡵌	myqy
+𡵌	mcyy
 𡿣	myqy
 㠧	mysd
 𡿐	mysd
@@ -85145,6 +85146,7 @@ encoder:
 ∃	oitk
 ∄	oitk
 ∅	oitk
+∅	pwwy
 ∆	oitk
 ∇	oitk
 ∉	oitk
@@ -85175,6 +85177,7 @@ encoder:
 ≃	oitk
 ≄	oitk
 ≅	oitk
+≅	mgsq
 ≆	oitk
 ≇	oitk
 ≉	oitk
@@ -105978,6 +105981,7 @@ encoder:
 𤔜	rhyl
 𤔶	rhyl
 𥂼	rhyl
+𥂼	rnyl
 𭱷	rhyl
 牛市	rhym
 𬋤	rhym
@@ -109346,6 +109350,13 @@ encoder:
 打和	rstk
 打翻	rsto
 𢺁	rstt
+⿽	rstw
+⿼	rstw
+⿴	rstw
+⿻	rstw
+⿾	rstw
+⿿	rstw
+㇯	rstw
 ⿰	rstw
 ⿱	rstw
 ⿲	rstw
@@ -118593,13 +118604,13 @@ encoder:
 䇫	tahh
 夅	tahj
 𣅲	tahj
+𣅲	qfjd
 𧔧	tahj
 𥠯	tahk
 𥷷	tahk
 籃	tahl
 𥤟	tahl
 䉯	tahm
-𬼋	tahm
 长眠	tahn
 𤭘	tahn
 熈	taho
@@ -118863,9 +118874,7 @@ encoder:
 长统	taxy
 长	tay
 䄩	tay
-𢓀	
-
-tay
+𢓀	tay
 长度	taya
 升序	tayc
 长斋	tayd
@@ -128341,16 +128350,20 @@ tay
 ↞	tuud
 ↟	tuud
 ↠	tuud
+↠	iatm
 ↡	tuud
 ↢	tuud
 ↣	tuud
 ↤	tuud
 ↥	tuud
 ↦	tuud
+↦	jmgc
 ↧	tuud
 ↨	tuud
 ↩	tuud
 ↪	tuud
+↪	ujtm
+↪	maty
 ↫	tuud
 ↬	tuud
 ↭	tuud
@@ -134617,7 +134630,6 @@ tay
 𥪒	unma
 𡲞	unmd
 𤷯	unmj
-𮞄	unmp
 𠆄	unmu
 乵	unn
 䇃	unn
@@ -142892,7 +142904,7 @@ tay
 𪜷	wesy
 仍待	wetf
 𠉰	wetf
-𬎼	wetg
+𬎼	uetg
 僞	weto
 仍很	wetv
 𪝝	weud
@@ -147409,6 +147421,7 @@ tay
 作弄	wtga
 作到	wtgc
 ≌	wtgf
+≌	wgtf
 倕	wtgf
 偅	wtgf
 八一	wtgg
@@ -163443,13 +163456,13 @@ tay
 🀐	ggts
 🀐	xnts
 🀑 	fgts
-🀒       dgts
-🀓       lhts
-🀔       ggts
-🀕       uyts
-🀖       agts
-🀗       wtts
-🀘       vtts
+🀒	dgts
+🀓	lhts
+🀔	ggts
+🀕	uyts
+🀖	agts
+🀗	wtts
+🀘	vtts
 🀑	fgfp
 🀒	dgfp
 🀓	lhfp
@@ -163468,14 +163481,14 @@ tay
 🀠	wtqn
 🀡	vtqn
 🀙	ggtm
-🀚       fgtm
-🀛       dgtm
-🀜       lhtm
-🀝       ggtm
-🀞       uytm
-🀟       agtm
-🀠       wttm
-🀡       vttm
+🀚	fgtm
+🀛	dgtm
+🀜	lhtm
+🀝	ggtm
+🀞	uytm
+🀟	agtm
+🀠	wttm
+🀡	vttm
 🀢	stxu
 🀣	uff
 🀤	ttgh
@@ -164490,7 +164503,7 @@ AA制	aarm
 𰱃	aatd
 𰱄	anhn
 𰱅	aksu
-𰱆	atff
+𰱆	atrf
 𰱇	auef
 𰱈	apfi
 𰱉	aunu
@@ -168453,7 +168466,7 @@ AA制	aarm
 𮚌	gdgw
 𮜋	gjfh
 𮝕	gntl
-𮞄	gkyp
+𮞄	gkpd
 𮞆	grpk
 𮞒	gtyp
 𮞘	gwep
@@ -170065,7 +170078,7 @@ AA制	aarm
 𰜟	iukh
 𰜠	inve
 𰜡	ibth
-𰜢	iekm
+𰜢	ilkm
 𰜣	inug
 𰜤	imwg
 𰜥	ifjj
@@ -173203,7 +173216,6 @@ AA制	aarm
 𭆥	nci
 𭇁	nhkf
 𭉖	ntfx
-𭍺	nyff
 𭍼	nhfy
 𭏂	nvef
 𭏃	ngjf
@@ -174950,7 +174962,7 @@ AA制	aarm
 𰭐	pwhw
 𰳰	puxn
 𰳱	puuy
-𰳲	pudy
+𰳲	pudx
 𰳴	puwy
 𰳵	puan
 𰳶	pulk
@@ -176120,10 +176132,11 @@ AA制	aarm
 𱉙	qynw
 𱉣	qynd
 𱉭	qdbg
-𱉸	qyns
+𱉸	qynt
 𱉿	qynt
 𱊄	qynq
 𱊅	qyny
+幑	tmgt
 𱊆	qkqg
 𱊇	qoqg
 𱊜	qyng
@@ -177620,7 +177633,6 @@ T型台	tgck
 𩡉	tjfv
 𩡥	tjgi
 𥠎	tjqc
-𤓯	tjyi
 籔	tkgt
 簍	tkgv
 𥞲	tklj
@@ -178596,7 +178608,7 @@ T恤	ttnt
 𰠦	tcy
 𰠩	tfcy
 𰠪	tdbn
-𰠫	tmqy
+𰠫	trmq
 𰠬	tbnn
 𰠭	tfiy
 𰠮	tdqy
@@ -179567,7 +179579,7 @@ U盘	uute
 𰿩	uaht
 𰿪	uwve
 𰿫	uyly
-𰿬	uguf
+𰿬	uguh
 𰿭	uld
 𰿮	uthd
 𰿯	ugku
@@ -181021,7 +181033,6 @@ U盘	uute
 𭌛	whwk
 𭌷	whwk
 𭌷	whgk
-𭍺	wff
 𭏑	whnf
 𭏓	wcwf
 𭏓	wcwy
@@ -182817,7 +182828,7 @@ U盘	uute
 𰵋	ytfh
 𰵌	ynrt
 𰵍	ygbn
-𰵎	ydny
+𰵎	ydnn
 𰵏	yitt
 𰵐	yrcy
 𰵑	yyly
@@ -182838,7 +182849,7 @@ U盘	uute
 𰵟	yudg
 𰵠	yvcy
 𰵡	ycag
-𰵢	ygud
+𰵢	yguw
 𰵣	ywgk
 𰵤	ytkg
 𰵥	yqqy
@@ -185729,6 +185740,7 @@ m̀	mmll
 ≝	pgyq
 ⊔	guua
 ∏	tkwy
+∏	fitk
 ∐	wttk
 ⏧	ftah
 ȵ	nnll
@@ -186208,3 +186220,29 @@ m̀	mmll
 𮶂	xtdh
 𣣷	bhgw
 𱎟	wnrt
+𱛍	mwxn
+𲍐	qgoy
+𱒀	kdnn
+𮷘	lrnn
+𱙥	vyon
+𱬬	owgw
+𮹝	dxdx
+𱗐	jfwf
+𮯱	etny
+𱧤	iutl
+𢁅	nnfh
+𢁅	nnga
+厯	dssy
+𱳤	tdkn
+𠕋󠄂	mmfd
+𲂐	yfmf
+𥈠󠄂	hwwh
+飮	wpqw
+別󠄂	kvjh
+𣹳	iyci
+⌬	asgg
+〓	geta
+​	fpps
+ 	tpst
+ 	ppst
+ɾ	rrll
