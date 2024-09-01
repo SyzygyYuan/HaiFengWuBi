@@ -87,11 +87,7 @@ encoder:
 ⋋	fhtk
 ⋌	fhtk
 
-其	a
-东	a
 式	aa
-戒	aa
-芽	aa
 工	aaa
 工	aaaa
 㠭	aaaa
@@ -408,8 +404,6 @@ encoder:
 芽变	aayo
 𬻈	aayu
 节	ab
-萨	ab
-荪	ab
 节节	abab
 萨斯	abad
 蒸散	abae
@@ -1335,8 +1329,6 @@ encoder:
 其言	adyy
 其文	adyy
 菜	ae
-散	ae
-藤	ae
 散工	aeaa
 菜苔	aeac
 菜薹	aeaf
@@ -1559,8 +1551,6 @@ encoder:
 菜谱	aeyu
 散文	aeyy
 革	af
-某	af
-著	af
 鞯	afa
 𩋋	afaa
 鞯	afab
@@ -2513,8 +2503,6 @@ encoder:
 著文	afyy
 𩍓	afyy
 七	ag
-巧	ag
-莱	ag
 荆	aga
 七节	agab
 七项	agad
@@ -3005,8 +2993,6 @@ encoder:
 巧言	agyy
 七方	agyy
 牙	ah
-雅	ah
-臣	ah
 蘧	aha
 卧式	ahaa
 牙式	ahaa
@@ -3527,8 +3513,6 @@ encoder:
 雅座	ahyw
 雅言	ahyy
 东	ai
-落	ai
-范	ai
 茳	aia
 范式	aiaa
 䔐	aiaa
@@ -4023,8 +4007,6 @@ encoder:
 东方	aiyy
 范文	aiyy
 划	aj
-莫	aj
-草	aj
 萌芽	ajaa
 草莽	ajad
 莫若	ajad
@@ -4431,8 +4413,6 @@ encoder:
 幕府	ajyw
 草率	ajyx
 或	ak
-惑	ak
-勤	ak
 莴苣	akaa
 勤苦	akad
 勤劳	akap
@@ -4739,8 +4719,6 @@ encoder:
 鄞州	akyt
 𬜰	akyu
 功	al
-苏	al
-莲	al
 苏式	alaa
 薯蓣	alac
 菌苔	alac
@@ -5084,8 +5062,6 @@ encoder:
 莲座	alyw
 功率	alyx
 贡	am
-英	am
-黄	am
 ㏂	am
 英式	amaa
 黄苷	amaa
@@ -5450,8 +5426,6 @@ encoder:
 英文	amyy
 𤤶	amyy
 世	an
-艺	an
-巨	an
 苠	ana
 𦹉	anaa
 苠	anab
@@ -9342,9 +9316,7 @@ encoder:
 𫉚	ayyn
 荒诞	ayyt
 荒唐	ayyv
-芒康	ayyv
-子	b
-也	b
+芒康	ayyvn
 陈	ba
 𦗉	baah
 𮤣	baak
@@ -11203,8 +11175,6 @@ encoder:
 出访	bmyy
 𭑫	bmyy
 也	bn
-孔	bn
-孑	bn
 孔菱	bnaf
 𦕛	bnan
 孔区	bnaq
@@ -12743,8 +12713,6 @@ encoder:
 防盲	byyn
 防腐	byyw
 以	c
-又	c
-对	c
 戏	ca
 劲	ca
 驱	ca
@@ -13315,7 +13283,6 @@ encoder:
 𢿺	cccc
 𣪶	cccc
 𤿵	cccc
-𮨶	cccc
 叄	cccd
 𠫰	cccd
 𣡉	cccd
@@ -15746,8 +15713,6 @@ encoder:
 驻京	cyyi
 𮞗	cyyp
 在	d
-大	d
-而	d
 左	da
 厮	da
 砸	da
@@ -19877,8 +19842,6 @@ encoder:
 右旋	dkyt
 右方	dkyy
 历	dl
-奋	dl
-夯	dl
 ㎗	dl
 𥕏	dlag
 历世	dlan
@@ -23061,8 +23024,6 @@ encoder:
 ʣ	dzll
 ʥ	dzll
 有	e
-月	e
-用	e
 肛	ea
 腊	ea
 腻	ea
@@ -26101,8 +26062,6 @@ encoder:
 采认	esyw
 采访	esyy
 用	et
-乃	et
-胜	et
 胀	eta
 用工	etaa
 腹节	etab
@@ -27210,8 +27169,6 @@ encoder:
 𦢵	eyyt
 脉率	eyyx
 地	f
-土	f
-去	f
 载	fa
 域	fa
 戴	fa
@@ -35916,8 +35873,6 @@ encoder:
 墩底	fyyq
 𡓔	fyyt
 一	g
-王	g
-来	g
 开	ga
 形	ga
 武	ga
@@ -40740,8 +40695,10 @@ encoder:
 𤫷	gmiy
 𧟤	gmja
 𧟨	gmja
+𧟨	staj
 𧠄	gmjb
 𨝍	gmjb
+𨝍	sdnb
 𧟱	gmjc
 𧟺	gmjc
 𧠅	gmjc
@@ -41294,8 +41251,6 @@ encoder:
 𬎦	gnyy
 𭠡	gnyy
 来	go
-亚	go
-严	go
 亚基	goad
 灭茬	goad
 晋熙	goah
@@ -43662,11 +43617,7 @@ encoder:
 斑斓	gyyu
 斑腐	gyyw
 上	h
-目	h
-点	h
 虎	ha
-虚	ha
-虑	ha
 ㏊	ha
 虐	haa
 𧈉	haae
@@ -44414,8 +44365,6 @@ encoder:
 𪗯	hbyq
 𪗰	hbyx
 皮	hc
-颇	hc
-眸	hc
 皮革	hcaf
 皮鞋	hcaf
 皮靴	hcaf
@@ -44707,8 +44656,6 @@ encoder:
 𭿴	hdy
 瞭望	hdyn
 肯	he
-瞬	he
-睬	he
 𥆬	hebg
 𥈱	hecl
 𠭉	hecy
@@ -44761,8 +44708,6 @@ encoder:
 肯说	heyu
 𥄫	heyy
 睦	hf
-睹	hf
-歧	hf
 𥊊	hfaf
 睵	hfak
 歧黄	hfam
@@ -44878,8 +44823,6 @@ encoder:
 𥊖	hfwy
 歧义	hfyq
 睛	hg
-凸	hg
-睫	hg
 𬑖	hgae
 䀘	hgah
 𬑘	hgah
@@ -45056,8 +44999,6 @@ encoder:
 凸度	hgya
 	hgyi
 止	hh
-卡	hh
-卜	hh
 上工	hhaa
 卡式	hhaa
 上期	hhad
@@ -45543,8 +45484,6 @@ encoder:
 上访	hhyy
 上文	hhyy
 步	hi
-叔	hi
-督	hi
 频散	hiae
 𥆀	hiag
 𢧁	hiat
@@ -45707,8 +45646,6 @@ encoder:
 频谱	hiyu
 频率	hiyx
 旧	hj
-桌	hj
-卓	hj
 旧式	hjaa
 卓著	hjaf
 𮀩	hjaf
@@ -45889,8 +45826,6 @@ encoder:
 桌底	hjyq
 旧话	hjyt
 占	hk
-战	hk
-乩	hk
 战	hka
 𢧗	hkaa
 点菜	hkae
@@ -46131,8 +46066,6 @@ encoder:
 点谱	hkyu
 战鹰	hkyw
 卤	hl
-鹾	hl
-卣	hl
 ㎐	hz
 卤菜	hlae
 𥊞	hlag
@@ -46438,8 +46371,6 @@ encoder:
 𣥑	hmyh
 𥃵	hmyy
 卢	hn
-眠	hn
-鼎	hn
 眠	hna
 𥉲	hnae
 𥅣	hnag
@@ -46589,7 +46520,6 @@ encoder:
 	hnyi
 𠧛	hnyu
 眯	ho
-瞵	ho
 𥆵	hoah
 齢	hobc
 𮭢	hobe
@@ -46636,8 +46566,6 @@ encoder:
 𥍆	hoyc
 𥍏	hoyo
 瞎	hp
-壑	hp
-睿	hp
 ㏋	hp
 ㍱	hpa
 瞎子	hpbb
@@ -46750,8 +46678,6 @@ encoder:
 瞎话	hpyt
 瞎说	hpyu
 餐	hq
-睁	hq
-瞻	hq
 睧	hqaj
 𧠋	hqaj
 𥆠	hqak
@@ -46996,7 +46922,6 @@ encoder:
 𬑦	hrxq
 䁶	hryt
 盯	hs
-瞟	hs
 𨜑	hsbh
 盯防	hsby
 瞟	hsf
@@ -47039,8 +46964,6 @@ encoder:
 𥄢	hsy
 𥄵	hsyy
 睡	ht
-眨	ht
-瞅	ht
 睡卧	htah
 𫞳	htah
 睡莲	htal
@@ -47177,7 +47100,6 @@ encoder:
 睡魔	htys
 𭿱	htyy
 瞳	hu
-睇	hu
 𥋏	huaj
 𥉮	hube
 瞳孔	hubn
@@ -47243,8 +47165,6 @@ encoder:
 𮁆	huxw
 𪾽	huyy
 眼	hv
-睨	hv
-瞍	hv
 眼节	hvab
 眼花	hvaw
 眼药	hvax
@@ -47365,8 +47285,6 @@ encoder:
 䀔	hvyy
 𠧓	hvyy
 具	hw
-瞧	hw
-瞪	hw
 齿式	hwaa
 龄期	hwad
 𥅩	hwat
@@ -47608,8 +47526,6 @@ encoder:
 具文	hwyy
 齿廓	hwyy
 此	hx
-些	hx
-紫	hx
 此项	hxad
 紫菜	hxae
 紫藤	hxae
@@ -47889,8 +47805,6 @@ encoder:
 眩	hyxy
 盿	hyy
 不	i
-水	i
-小	i
 江	ia
 满	ia
 港	ia
@@ -56462,8 +56376,6 @@ encoder:
 𠁼	iyyy
 	iyyy
 是	j
-日	j
-时	j
 虹	ja
 晓	ja
 蝶	ja
@@ -61524,8 +61436,6 @@ encoder:
 旷废	jyyn
 景州	jyyt
 中	k
-口	k
-只	k
 呀	ka
 哄	ka
 哎	ka
@@ -66433,8 +66343,6 @@ encoder:
 𠺷	kpyq
 𡅏	kpyu
 史	kq
-兄	kq
-吹	kq
 吹散	kqae
 吻鞘	kqaf
 吹落	kqai
@@ -68362,10 +68270,7 @@ encoder:
 𡄁	kyyt
 𡀲	kyyw
 国	l
-田	l
-回	l
 轼	la
-羁	la
 轼	laa
 轼	laag
 軾	laag
@@ -68486,7 +68391,6 @@ encoder:
 𨏣	layt
 𭌱	layv
 囝	lb
-辄	lb
 𨏴	lbbb
 輙	lbcy
 𨋁	lbcy
@@ -68532,8 +68436,6 @@ encoder:
 𮝄	lbny
 𦋆	lbry
 轻	lc
-轰	lc
-辍	lc
 轻	lca
 轻工	lcaa
 轻	lcag
@@ -68695,8 +68597,6 @@ encoder:
 轻率	lcyx
 轻言	lcyy
 因	ld
-罪	ld
-恩	ld
 因式	ldaa
 因其	ldad
 𠡃	ldag
@@ -68994,8 +68894,6 @@ encoder:
 胃磨	leys
 𨋃	leyy
 轩	lf
-转	lf
-黑	lf
 罢工	lfaa
 转节	lfab
 围鞘	lfaf
@@ -69708,8 +69606,6 @@ encoder:
 转诊	lfyw
 转座	lfyw
 车	lg
-辆	lg
-畏	lg
 车工	lgaa
 辅基	lgad
 辐散	lgae
@@ -70076,8 +69972,6 @@ encoder:
 国文	lgyy
 𨋔	lgyy
 四	lh
-甲	lh
-罩	lh
 四节	lhab
 四项	lhad
 甲基	lhad
@@ -70429,8 +70323,6 @@ encoder:
 輥	ljxx
 𪢬	ljxx
 加	lk
-架	lk
-圆	lk
 加工	lkaa
 架式	lkaa
 架节	lkab
@@ -70889,8 +70781,6 @@ encoder:
 回廊	lkyy
 回文	lkyy
 男	ll
-○	ll
-勰	ll
 男式	llaa
 男工	llaa
 𨏖	llaa
@@ -71156,7 +71046,6 @@ encoder:
 圐	llyv
 男方	llyy
 轴	lm
-辋	lm
 ㏐	lm
 轴节	lmab
 轴功	lmal
@@ -71273,8 +71162,6 @@ encoder:
 轴率	lmyx
 軓	lmyy
 思	ln
-轧	ln
-辗	ln
 ㏑	ln
 辗	lna
 罠	lnab
@@ -71435,8 +71322,6 @@ encoder:
 𨍦	lovg
 𤰹	loy
 边	lp
-连	lp
-辖	lp
 边幕	lpaj
 𨍤	lpak
 辖区	lpaq
@@ -71617,8 +71502,6 @@ encoder:
 连州	lpyt
 连夜	lpyw
 罗	lq
-软	lq
-逻	lq
 软式	lqaa
 罗斯	lqad
 罗勒	lqaf
@@ -71857,8 +71740,6 @@ encoder:
 畂	lqyy
 𬏀	lqyy
 斩	lr
-暂	lr
-轶	lr
 斩获	lraq
 𦗚	lrbf
 畈	lrc
@@ -71982,8 +71863,6 @@ encoder:
 暂缓	lrxe
 𡇠	lrxv
 困	ls
-町	ls
-轲	ls
 困苦	lsad
 困惑	lsak
 困了	lsbn
@@ -72040,8 +71919,6 @@ encoder:
 困住	lswy
 𤱃	lsy
 力	lt
-图	lt
-略	lt
 图式	ltaa
 力荐	ltad
 𨋪	ltah
@@ -72274,8 +72151,6 @@ encoder:
 𨌝	ltyy
 	ltyy
 较	lu
-圈	lu
-畔	lu
 軿	luah
 𫐌	luah
 𤲒	luah
@@ -72430,8 +72305,6 @@ encoder:
 ∜	luys
 较广	luyy
 轨	lv
-囡	lv
-辎	lv
 轨节	lvab
 𤳚	lvaf
 䣚	lvbh
@@ -72513,8 +72386,6 @@ encoder:
 𭵄	lvyy
 軔	lvyy
 办	lw
-界	lw
-输	lw
 轮式	lwaa
 𤱝	lwag
 𠞵	lwaj
@@ -72765,7 +72636,6 @@ encoder:
 轮廓	lwyy
 𦌽	lwyy
 累	lx
-毗	lx
 ㏓	lx
 𤲮	lxaa
 累世	lxan
@@ -72855,8 +72725,6 @@ encoder:
 圞	lxys
 圝	lxyx
 罚	ly
-辙	ly
-辘	ly
 𨍏	lyac
 𤳌	lyao
 𤳱	lyaw
@@ -72968,11 +72836,7 @@ encoder:
 𪽌	lyy
 ʫ	lzll
 同	m
-山	m
-见	m
 曲	ma
-典	ma
-贼	ma
 ㎃	ma
 典藏	maad
 𧵻	maag
@@ -73302,8 +73166,6 @@ encoder:
 邮市	mbym
 邮亭	mbyp
 凤	mc
-峻	mc
-贻	mc
 𫵸	mcag
 峅	mcah
 岜	mcb
@@ -73389,8 +73251,6 @@ encoder:
 贻误	mcyk
 𬆞	mcyn
 央	md
-岸	md
-岩	md
 盎斯	mdad
 岩基	mdad
 𡷓	mdaj
@@ -73666,8 +73526,6 @@ encoder:
 𧶂	mdyt
 𡺒	mdyu
 骨	me
-崩	me
-骸	me
 髒	meaa
 𩪎	meaa
 𩪒	meaa
@@ -74105,8 +73963,6 @@ encoder:
 岋	meyy
 𮩥	meyy
 财	mf
-周	mf
-赌	mf
 周期	mfad
 𧸄	mfae
 𭕴	mfag
@@ -74427,8 +74283,6 @@ encoder:
 周旋	mfyt
 周详	mfyu
 同	mg
-赋	mg
-贱	mg
 ㎎	mg
 赋	mga
 同工	mgaa
@@ -74874,8 +74728,6 @@ encoder:
 同方	mgyy
 同文	mgyy
 由	mh
-贝	mh
-贴	mh
 巇	mhaa
 帴	mhaa
 𡾟	mhaa
@@ -75440,7 +75292,6 @@ encoder:
 帧率	mhyx
 𢂄	mhyx
 峭	mi
-嵴	mi
 𡷍	miag
 𡾁	micp
 巌	midt
@@ -75490,8 +75341,6 @@ encoder:
 𡵰	miy
 𡻔	miye
 则	mj
-赐	mj
-岿	mj
 则其	mjad
 𡻞	mjaf
 则取	mjbc
@@ -75591,8 +75440,6 @@ encoder:
 则为	mjyl
 则说	mjyu
 𡹋	mjyy
-迥	mk
-贶	mk
 𭝉	mkat
 𮟎	mkbh
 嶯	mkbt
@@ -75659,8 +75506,6 @@ encoder:
 𧵙	mkwy
 𬗶	mkxi
 崭	ml
-崽	ml
-岬	ml
 ㎖	ml
 屴	mlb
 𡹏	mlbm
@@ -75737,8 +75582,6 @@ encoder:
 𧹐	mlxy
 𭕆	mlyn
 册	mm
-岗	mm
-删	mm
 ㎜	mm
 ㎡	mm
 删节	mmab
@@ -76059,8 +75902,6 @@ encoder:
 㞩	mmyu
 山鹰	mmyw
 岂	mn
-凯	mn
-嵋	mn
 岷	mna
 𡶗	mnab
 㟭	mnaj
@@ -76216,8 +76057,6 @@ encoder:
 赆	mnyu
 䝲	mnyu
 𡵸	mnyy
-嶙	mo
-嵝	mo
 赕	mo
 ㏁	mo
 𩓈	modm
@@ -76261,8 +76100,6 @@ encoder:
 𡵼	moy
 𧵵	moy
 迪	mp
-崇	mp
-贮	mp
 ㎫	mpa
 贮藏	mpad
 崇敬	mpaq
@@ -76387,8 +76224,6 @@ encoder:
 崇州	mpyt
 崇文	mpyy
 风	mq
-网	mq
-刚	mq
 见工	mqaa
 𪩞	mqaa
 刚节	mqab
@@ -76905,8 +76740,6 @@ encoder:
 见谅	mqyy
 见方	mqyy
 贩	mr
-凰	mr
-嵬	mr
 𠙔	mrad
 㟛	mraf
 贩黄	mram
@@ -76977,8 +76810,6 @@ encoder:
 𡽄	mryt
 𡶜	mryy
 朵	ms
-剁	ms
-崧	ms
 ㎧	ms
 ㎳	ms
 嶘	msaa
@@ -77041,8 +76872,6 @@ encoder:
 𭕣	mswy
 嵀	msyg
 几	mt
-败	mt
-峰	mt
 账	mta
 几节	mtab
 几项	mtad
@@ -77453,8 +77282,6 @@ encoder:
 𤣼	mtyy
 𧨣	mtyy
 赠	mu
-赔	mu
-赚	mu
 賆	muah
 𧸉	muaj
 赚取	mubc
@@ -77659,8 +77486,6 @@ encoder:
 𧴬	mvyy
 	mvyy
 内	mw
-肉	mw
-崔	mw
 ㎽	mw
 ㎿	mw
 肉芽	mwaa
@@ -78334,8 +78159,6 @@ encoder:
 𭔱	mxxy
 𡿞	mxyx
 凡	my
-丹	my
-彤	my
 雘	myac
 𧶴	myac
 丹东	myai
@@ -78522,11 +78345,7 @@ encoder:
 𡾭	myyt
 凡庸	myyv
 民	n
-已	n
-心	n
 民	na
-展	na
-异	na
 ㎁	na
 民工	naaa
 展期	naad
@@ -78923,8 +78742,6 @@ encoder:
 异议	nayy
 𭡑	nayy
 敢	nb
-屈	nb
-慑	nb
 𢟘	nbat
 孱	nbb
 孱	nbbb
@@ -79027,8 +78844,6 @@ encoder:
 敢说	nbyu
 敢言	nbyy
 怪	nc
-惨	nc
-怡	nc
 𭚌	ncah
 𢝠	ncbc
 忬	ncbh
@@ -79135,8 +78950,6 @@ encoder:
 怪论	ncyw
 㣾	ncyy
 居	nd
-剧	nd
-忧	nd
 惰	nda
 𢞑	ndaa
 惰	ndae
@@ -79410,8 +79223,6 @@ encoder:
 忣	neyy
 𦐏	neyy
 导	nf
-层	nf
-迅	nf
 ㎋	nf
 愤	nfa
 慰藉	nfad
@@ -79748,8 +79559,6 @@ encoder:
 导言	nfyy
 慎言	nfyy
 怀	ng
-情	ng
-司	ng
 情节	ngab
 懒散	ngae
 恒牙	ngah
@@ -80092,8 +79901,6 @@ encoder:
 恒州	ngyt
 情郎	ngyv
 收	nh
-眉	nh
-蛋	nh
 收工	nhaa
 收藏	nhad
 疏散	nhae
@@ -80706,8 +80513,6 @@ encoder:
 收率	nhyx
 悼文	nhyy
 悄	ni
-恍	ni
-屑	ni
 尿苷	niaa
 恍若	niad
 遲	niap
@@ -80809,8 +80614,6 @@ encoder:
 𮖇	niye
 尿床	niys
 慢	nj
-悍	nj
-惕	nj
 悍匪	njad
 懪	njai
 𤌮	njao
@@ -80926,8 +80729,6 @@ encoder:
 悭吝	njyk
 㥗	njyy
 避	nk
-壁	nk
-臂	nk
 辟邪	nkah
 𠡿	nkal
 避世	nkan
@@ -81114,8 +80915,6 @@ encoder:
 臂族	nkyt
 壁座	nkyw
 惭	nl
-翼	nl
-愣	nl
 翼	nla
 慖	nlag
 𨙒	nlap
@@ -81208,8 +81007,6 @@ encoder:
 㦒	nlyg
 愣	nlyn
 届	nm
-刷	nm
-惘	nm
 ㎚	nm
 𫻔	nmaa
 届期	nmad
@@ -81317,8 +81114,6 @@ encoder:
 𢣆	nmyk
 忛	nmyy
 忆	nn
-己	nn
-书	nn
 巽	nna
 𠭵	nnac
 𣪐	nnac
@@ -81739,7 +81534,6 @@ encoder:
 乙方	nnyy
 𢗜	nnyy
 屡	no
-屎	no
 屡获	noaq
 屡有	node
 𡳁	nody
@@ -81801,8 +81595,6 @@ encoder:
 㦪	noyc
 𢥥	noyo
 忱	np
-惋	np
-恽	np
 𢌟	npd
 屪	npdi
 𢞐	npdk
@@ -81880,8 +81672,6 @@ encoder:
 𭜟	npwy
 𢙔	npyn
 懈	nq
-惚	nq
-恂	nq
 𭚡	nqah
 惛	nqaj
 𪨘	nqak
@@ -81990,8 +81780,6 @@ encoder:
 㣿	nqyy
 𭚒	nqyy
 怕	nr
-愧	nr
-惶	nr
 怕苦	nrad
 惶惑	nrak
 惶恐	nram
@@ -82076,8 +81864,6 @@ encoder:
 怕谁	nryw
 忻府	nryw
 𢘛	nryy
-怵	ns
-憷	ns
 ㎱	ns
 𭜿	nsae
 𡳨	nscs
@@ -82122,8 +81908,6 @@ encoder:
 𪫟	nsy
 怵	nsyy
 必	nt
-性	nt
-改	nt
 怅	nta
 发芽	ntaa
 尾节	ntab
@@ -82779,8 +82563,6 @@ encoder:
 发廊	ntyy
 𣁉	ntyy
 习	nu
-飞	nu
-买	nu
 屏	nua
 屏式	nuaa
 买菜	nuae
@@ -83094,9 +82876,7 @@ encoder:
 买方	nuyy
 憫	nuyy
 恨	nv
-慨	nv
-忉	nv
-𠃍	nv
+𠃍	nnv
 ㎵	nv
 憳	nvaf
 𢝘	nvag
@@ -83163,8 +82943,6 @@ encoder:
 𢚴	nvyn
 㣼	nvyy
 愉	nw
-怜	nw
-恰	nw
 ㎻	nw
 惟其	nwad
 恰巧	nwag
@@ -83367,8 +83145,6 @@ encoder:
 𢦄	nwyy
 𩁙	nwyy
 尼	nx
-惯	nx
-屁	nx
 尼斯	nxad
 𢞃	nxag
 尼雅	nxah
@@ -83463,8 +83239,6 @@ encoder:
 惤	nxyx
 𬸼	nxyx
 心	ny
-惊	ny
-尽	ny
 𢜬	nyac
 以其	nyad
 以期	nyad
@@ -83906,8 +83680,6 @@ encoder:
 昼夜	nyyw
 心率	nyyx
 为	o
-火	o
-数	o
 煤	oa
 烧	oa
 炼	oa
@@ -86357,7 +86129,6 @@ encoder:
 𪺀	onyf
 断语	onyg
 断高	onym
-𫡮	onyp
 烬	onyu
 断言	onyy
 粎	onyy
@@ -88090,8 +87861,6 @@ encoder:
 	oyyy
 	oyyy
 这	p
-之	p
-家	p
 宽	pa
 寞	pa
 宦	pa
@@ -93893,8 +93662,6 @@ encoder:
 𫴪	pyyy
 ⻍	pyyy
 我	q
-金	q
-多	q
 氏	qa
 错	qa
 昏	qa
@@ -103181,8 +102948,6 @@ encoder:
 锍率	qyyx
 留言	qyyy
 的	r
-白	r
-看	r
 找	ra
 描	ra
 摸	ra
@@ -111702,8 +111467,6 @@ encoder:
 撤诉	ryyr
 抗议	ryyy
 要	s
-木	s
-可	s
 械	sa
 模	sa
 横	sa
@@ -116312,8 +116075,6 @@ encoder:
 檄文	sryy
 柝	sryy
 林	ss
-楚	ss
-梦	ss
 木工	ssaa
 林荫	ssab
 𭸰	ssac
@@ -118460,8 +118221,6 @@ encoder:
 述说	syyu
 柱廊	syyy
 和	t
-禾	t
-得	t
 长	ta
 升	ta
 彻	ta
@@ -129971,11 +129730,7 @@ encoder:
 入夜	tyyw
 入座	tyyw
 产	u
-立	u
-道	u
 并	ua
-瓶	ua
-冻	ua
 ㎂	ua
 并茂	uaad
 冻藏	uaad
@@ -130251,8 +130006,6 @@ encoder:
 𢆣	uayy
 𣁊	uayy
 闻	ub
-疗	ub
-逆	ub
 𤹚	ubae
 逆鞅	ubaf
 逆子	ubbb
@@ -130534,8 +130287,6 @@ encoder:
 痉挛	ucyo
 兖州	ucyt
 关	ud
-着	ud
-头	ud
 差	uda
 券式	udaa
 𦎗	udaa
@@ -131466,8 +131217,6 @@ encoder:
 𦏯	udyy
 𩁥	udyy
 前	ue
-遂	ue
-毅	ue
 前节	ueab
 前茅	ueac
 前期	uead
@@ -132270,8 +132019,6 @@ encoder:
 半夜	ufyw
 斗方	ufyy
 闰	ug
-美	ug
-病	ug
 ㎍	ug
 美工	ugaa
 美式	ugaa
@@ -132816,8 +132563,6 @@ encoder:
 𧮟	ugyy
 	ugyy
 站	uh
-丫	uh
-疲	uh
 𤹼	uhae
 𬮗	uhae
 瘧	uhag
@@ -134058,8 +133803,6 @@ encoder:
 问谁	ukyw
 总该	ukyy
 曾	ul
-兽	ul
-闸	ul
 ㎕	ul
 曾获	ulaq
 兽医	ulat
@@ -134783,8 +134526,6 @@ encoder:
 普高	uoym
 普遍	uoyn
 帝	up
-旁	up
-啻	up
 旁落	upai
 	upb
 旁承	upbd
@@ -137812,8 +137553,6 @@ encoder:
 六畜	uyyx
 门廊	uyyy
 发	v
-女	v
-她	v
 毁	va
 媒	va
 姬	va
@@ -141895,11 +141634,7 @@ encoder:
 丸剂	vyyj
 嬗变	vyyo
 人	w
-他	w
-个	w
 代	wa
-供	wa
-借	wa
 代工	waaa
 供其	waad
 侙	waag
@@ -142213,8 +141948,6 @@ encoder:
 供方	wayy
 𫢭	wayy
 他	wb
-创	wb
-仔	wb
 ㏝	wb
 戗	wba
 创世	wban
@@ -142325,8 +142058,6 @@ encoder:
 仔畜	wbyx
 他方	wbyy
 公	wc
-仅	wc
-俊	wc
 公式	wcaa
 𠇹	wcag
 俊雅	wcah
@@ -142564,8 +142295,6 @@ encoder:
 公文	wcyy
 𬽰	wcyy
 估	wd
-做	wd
-段	wd
 佐	wda
 做工	wdaa
 𪘓	wdab
@@ -142829,8 +142558,6 @@ encoder:
 仗	wdyy
 㑀	wdyy
 仍	we
-佣	we
-俘	we
 佣工	weaa
 㒚	wean
 俘获	weaq
@@ -142924,8 +142651,6 @@ encoder:
 𠬬	weyu
 伋	weyy
 会	wf
-什	wf
-传	wf
 偾	wfa
 传戒	wfaa
 佳节	wfab
@@ -143627,8 +143352,6 @@ encoder:
 传言	wfyy
 𠎋	wfyy
 全	wg
-使	wg
-便	wg
 盒式	wgaa
 合式	wgaa
 使节	wgab
@@ -144620,8 +144343,6 @@ encoder:
 全文	wgyy
 𠇤	wgyy
 个	wh
-候	wh
-企	wh
 𪝭	whad
 修鞋	whaf
 𠌙	whaf
@@ -147792,8 +147513,6 @@ encoder:
 𣁏	wtyy
 	wtyy
 们	wu
-位	wu
-僧	wu
 倍式	wuaa
 併	wuah
 佯攻	wuat
@@ -147949,7 +147668,7 @@ encoder:
 偤	wusg
 𠊍	wusg
 位相	wush
-𠋣	wusk
+#𠋣	wusk
 𥂝	wusl
 伞檐	wusq
 儭	wusq
@@ -148000,8 +147719,6 @@ encoder:
 倍率	wuyx
 𠎓	wuyy
 分	wv
-伊	wv
-健	wv
 分工	wvaa
 分节	wvab
 分期	wvad
@@ -149264,8 +148981,6 @@ encoder:
 人畜	wwyx
 人文	wwyy
 化	wx
-华	wx
-佛	wx
 化工	wxaa
 佛牙	wxah
 华东	wxai
@@ -149515,8 +149230,6 @@ encoder:
 华府	wxyw
 华文	wxyy
 信	wy
-住	wy
-今	wy
 仪式	wyaa
 停工	wyaa
 储藏	wyad
@@ -150376,11 +150089,7 @@ encoder:
 食言	wyyy
 讎	wyyy
 经	x
-给	x
-结	x
 红	xa
-练	xa
-绕	xa
 𠮅	xaac
 𠼡	xaac
 𢿟	xaac
@@ -150660,8 +150369,6 @@ encoder:
 𦃮	xayw
 红方	xayy
 弛	xb
-绌	xb
-弭	xb
 𦃎	xbat
 䌰	xbbb
 𦂫	xbbh
@@ -150705,8 +150412,6 @@ encoder:
 㢽	xbxn
 弛张	xbxt
 经	xc
-弘	xc
-缀	xc
 经	xca
 经期	xcad
 经	xcag
@@ -150827,8 +150532,6 @@ encoder:
 经方	xcyy
 紁	xcyy
 顷	xd
-绑	xd
-绮	xd
 绑匪	xdad
 𭳹	xdag
 𫃫	xdah
@@ -150982,8 +150685,6 @@ encoder:
 毋庸	xdyv
 𩱒	xdyx
 级	xe
-组	xe
-缓	xe
 组工	xeaa
 缓期	xead
 𢍝	xeaj
@@ -151155,8 +150856,6 @@ encoder:
 級	xeyy
 𢎽	xeyy
 结	xf
-续	xf
-贯	xf
 结式	xfaa
 结节	xfab
 𦅞	xfae
@@ -151449,8 +151148,6 @@ encoder:
 绪言	xfyy
 𦅙	xfyy
 线	xg
-母	xg
-纯	xg
 纯蓝	xgaj
 线或	xgak
 线芯	xgan
@@ -151792,8 +151489,6 @@ encoder:
 彝文	xgyy
 𬗈	xgyy
 引	xh
-绰	xh
-缈	xh
 𦁭	xhac
 引荐	xhad
 𭘳	xhae
@@ -151933,8 +151628,6 @@ encoder:
 引言	xhyy
 引文	xhyy
 纱	xi
-绡	xi
-颍	xi
 𢏠	xiag
 𩱮	xiah
 𮉷	xiaj
@@ -152080,8 +151773,6 @@ encoder:
 𡤨	xiyv
 𮊅	xiyy
 旨	xj
-费	xj
-弗	xj
 费工	xjaa
 𬝱	xjad
 彃	xjaf
@@ -152230,8 +151921,6 @@ encoder:
 费话	xjyt
 费率	xjyx
 强	xk
-织	xk
-绳	xk
 织工	xkaa
 强项	xkad
 𦄶	xkaj
@@ -152399,8 +152088,6 @@ encoder:
 强调	xkym
 强记	xkyn
 细	xl
-幼	xl
-辔	xl
 幼芽	xlaa
 细节	xlab
 细菜	xlae
@@ -152597,8 +152284,6 @@ encoder:
 细说	xlyu
 幼畜	xlyx
 纲	xm
-纳	xm
-绸	xm
 繷	xmae
 𢐪	xmae
 𢏣	xmag
@@ -152707,8 +152392,6 @@ encoder:
 𬗄	xmyy
 𭘤	xmyy
 纪	xn
-幻	xn
-纠	xn
 缗	xna
 缪斯	xnad
 𢇀	xnag
@@ -152880,8 +152563,6 @@ encoder:
 幻方	xnyy
 䋇	xnyy
 继	xo
-缕	xo
-粥	xo
 𩱷	xoah
 继子	xobb
 继承	xobd
@@ -152945,8 +152626,6 @@ encoder:
 𩱯	xoyh
 𬴻	xoyh
 综	xp
-缩	xp
-绽	xp
 综艺	xpan
 缩聚	xpbc
 𦄎	xpbc
@@ -153066,8 +152745,6 @@ encoder:
 绽放	xpyt
 缩放	xpyt
 约	xq
-绝	xq
-纸	xq
 纸	xqa
 𫘖	xqac
 约期	xqad
@@ -153318,8 +152995,6 @@ encoder:
 㢩	xqyy
 𪪊	xqyy
 绵	xr
-弧	xr
-缴	xr
 𦁟	xrae
 𦁻	xrag
 绵薄	xrai
@@ -153429,8 +153104,6 @@ encoder:
 𥿊	xryy
 𦈈	xryy
 𭘝	xryy
-缥	xs
-缃	xs
 㯋	xsdm
 𮊀	xsdp
 缥	xsf
@@ -153482,8 +153155,6 @@ encoder:
 䊾	xsy
 絉	xsyy
 张	xt
-终	xt
-疑	xt
 张	xta
 𨜕	xtab
 绣鞋	xtaf
@@ -153864,8 +153535,6 @@ encoder:
 张良	xtyv
 𧬰	xtyy
 弱	xu
-弹	xu
-绞	xu
 弱项	xuad
 絣	xuah
 織	xuaj
@@ -154062,8 +153731,6 @@ encoder:
 弱旅	xuyt
 𦅤	xuyy
 绿	xv
-绍	xv
-纨	xv
 绿芽	xvaa
 绿荫	xvab
 𢀟	xvaf
@@ -154194,8 +153861,6 @@ encoder:
 𢎫	xvyy
 𥿷	xvyy
 给	xw
-维	xw
-纵	xw
 纵荡	xwai
 缎子	xwbb
 纵隔	xwbg
@@ -154436,8 +154101,6 @@ encoder:
 维文	xwyy
 𢎬	xwyy
 比	xx
-丝	xx
-皆	xx
 畿	xxa
 比萨	xxab
 毕节	xxab
@@ -154796,8 +154459,6 @@ encoder:
 比率	xxyx
 比方	xxyy
 纺	xy
-统	xy
-编	xy
 𦂀	xyac
 编著	xyaf
 𦀮	xyah
@@ -155110,8 +154771,6 @@ encoder:
 编订	xyys
 统率	xyyx
 主	y
-言	y
-说	y
 度	ya
 试	ya
 席	ya
@@ -155750,8 +155409,6 @@ encoder:
 离谱	ybyu
 𠆓	ybyy
 充	yc
-序	yc
-育	yc
 弃	yca
 译著	ycaf
 𬢢	ycah
@@ -155955,8 +155612,6 @@ encoder:
 序文	ycyy
 訍	ycyy
 庆	yd
-诚	yd
-庞	yd
 斋戒	ydaa
 𧩭	ydae
 𧧳	ydah
@@ -156163,8 +155818,6 @@ encoder:
 诽谤	ydyu
 诙谐	ydyx
 衣	ye
-哀	ye
-谣	ye
 衣鞋	yeaf
 哀荣	yeap
 𢉚	yebn
@@ -156300,8 +155953,6 @@ encoder:
 訯	yeyy
 諑	yeyy
 计	yf
-讲	yf
-诗	yf
 讨巧	yfag
 䜟	yfag
 计划	yfaj
@@ -156682,8 +156333,6 @@ encoder:
 计议	yfyy
 𮗳	yfyy
 主	yg
-语	yg
-请	yg
 斌	yga
 主芽	ygaa
 主项	ygad
@@ -157100,8 +156749,6 @@ encoder:
 评议	ygyy
 证言	ygyy
 让	yh
-店	yh
-卞	yh
 谑	yha
 𢋼	yhaa
 𫍔	yhaa
@@ -157250,8 +156897,6 @@ encoder:
 让座	yhyw
 讣文	yhyy
 就	yi
-应	yi
-京	yi
 应节	yiab
 就其	yiad
 就范	yiai
@@ -157477,8 +157122,6 @@ encoder:
 应该	yiyy
 京广	yiyy
 刘	yj
-齐	yj
-课	yj
 𧫤	yjaf
 𧨤	yjag
 𧭤	yjai
@@ -157717,8 +157360,6 @@ encoder:
 齐放	yjyt
 课文	yjyy
 训	yk
-识	yk
-误	yk
 误工	ykaa
 误期	ykad
 衰落	ykai
@@ -157907,8 +157548,6 @@ encoder:
 识谱	ykyu
 误诊	ykyw
 为	yl
-库	yl
-谓	yl
 为戒	ylaa
 为期	ylad
 为其	ylad
@@ -158187,8 +157826,6 @@ encoder:
 为谁	ylyw
 为文	ylyy
 高	ym
-设	ym
-市	ym
 高工	ymaa
 调节	ymab
 高斯	ymad
@@ -158716,8 +158353,6 @@ encoder:
 调谐	ymyx
 訉	ymyy
 记	yn
-望	yn
-房	yn
 雇工	ynaa
 𧪀	ynaa
 鹿茸	ynab
@@ -159964,8 +159599,6 @@ encoder:
 ⣾	ynyy
 ⣿	ynyy
 变	yo
-谈	yo
-亦	yo
 弈	yoa
 变节	yoab
 变革	yoaf
@@ -160199,8 +159832,6 @@ encoder:
 亪	yoyu
 谈论	yoyw
 这	yp
-亮	yp
-毫	yp
 豪萨	ypab
 这项	ypad
 这匹	ypaq
@@ -160479,8 +160110,6 @@ encoder:
 亳州	ypyt
 𡢜	ypyv
 义	yq
-底	yq
-询	yq
 底	yqa
 义工	yqaa
 底节	yqab
@@ -160732,8 +160361,6 @@ encoder:
 谗言	yqyy
 訋	yqyy
 诉	yr
-诛	yr
-亵	yr
 诉苦	yrad
 𭡤	yrbn
 䛀	yrcy
@@ -160841,8 +160468,6 @@ encoder:
 诉	yryy
 訴	yryy
 订	ys
-床	ys
-麻	ys
 磨工	ysaa
 魔芋	ysag
 磨牙	ysah
@@ -161111,8 +160736,6 @@ encoder:
 魔方	ysyy
 訹	ysyy
 放	yt
-话	yt
-许	yt
 旗	yta
 施工	ytaa
 话茬	ytad
@@ -161488,9 +161111,7 @@ encoder:
 𬀢	ytov
 施粉	ytow
 放宽	ytpa
-���	ytph
 䢟	ytpi
-���	ytpi
 庭审	ytpj
 㫎	ytpl
 𫿨	ytpn
@@ -161567,7 +161188,6 @@ encoder:
 𭘁	yttd
 旗舰	ytte
 𣃼	ytte
-�	ytte
 旅行	yttf
 施行	yttf
 放行	yttf
@@ -161577,11 +161197,8 @@ encoder:
 旌	yttg
 施秉	yttg
 𣄀	yttg
-���	yttg
 𢄧	ytth
 𡮰	ytti
-���	ytti
-���	yttj
 𪟒	yttj
 旅程	yttk
 话务	yttl
@@ -161719,8 +161336,6 @@ encoder:
 𧪃	ytyy
 	ytyy
 说	yu
-详	yu
-谦	yu
 谱项	yuad
 誁	yuah
 𬣲	yuah
@@ -161986,8 +161601,6 @@ encoder:
 说文	yuyy
 谰言	yuyy
 良	yv
-唐	yv
-郎	yv
 譭	yvac
 良苦	yvad
 𧫿	yvaf
@@ -162241,8 +161854,6 @@ encoder:
 訒	yvyy
 訙	yvyy
 认	yw
-论	yw
-谁	yw
 座节	ywab
 𬣈	ywae
 论著	ywaf
@@ -162721,8 +162332,6 @@ encoder:
 𧫟	ywyy
 𫷿	ywyy
 率	yx
-玄	yx
-畜	yx
 雍熙	yxah
 𤣥	yxb
 𮟑	yxbh
@@ -162890,8 +162499,6 @@ encoder:
 誸	yxyx
 𧦮	yxyy
 方	yy
-文	yy
-该	yy
 方式	yyaa
 𧩧	yyac
 𬤏	yyac
@@ -164702,7 +164309,7 @@ AA制	aarm
 𨽘	byvv
 䶹	bte
 鿢	bbwk
-鿣	bbfq
+鿣	bbdq
 鿤	bbsk
 鿧	btgq
 𪦾	bnhw
@@ -167023,7 +166630,7 @@ AA制	aarm
 𡍀	fyny
 𡍓	fyqy
 霽	fyvf
-龪	fhwi�
+龪	fhwi
 龳	fwff
 鿍	ftah
 鿍	ftgh
@@ -168742,7 +168349,6 @@ AA制	aarm
 𰑼	gisn
 𰢣	gnya
 𰺬	gwmu
-齰	hb
 𣱱	hii
 𠄏	hnv
 𥇔	hafe
@@ -169535,7 +169141,7 @@ AA制	aarm
 𪎤	itds
 𠦖	itfj
 鼝	ithc
-淵	ithh
+#淵	ithh
 𣸄	ithj
 𣽿	itkg
 𤁌	itmf
@@ -170237,7 +169843,7 @@ AA制	aarm
 𢍖	jgma
 鼂	jgmv
 𧎽	jgoj
-𨓯	jgpk
+#𨓯	jgpk
 𣆃	jgqu
 𠕰	jgwh
 𤰃	jhfk
@@ -180083,7 +179689,6 @@ U盘	uute
 𱌎	vnuw
 𱌏	vnul
 𱌐	vnuo
-#′	wv
 𠈥	wmn
 𠁽	wnv
 𨤾	wagi
@@ -186246,3 +185851,23 @@ m̀	mmll
  	tpst
  	ppst
 ɾ	rrll
+𫡮	onpv
+𫡮	nopi
+𫡮	opnn
+𱐙	utjh
+℞	rrll
+℞	thyy
+ɐ	aall
+̝	ymwx
+̞	wqwx
+ℓ	llll
+𱎚	wre
+维数	xwov
+真󠄉	fewu
+眞󠄅	xhwu
+眞󠄄	xhgw
+博󠄆	ffmf
+𥄂󠄁	fegd
+形󠄁	ftfe
+𱹖	jawo
+𠋣	wukh
